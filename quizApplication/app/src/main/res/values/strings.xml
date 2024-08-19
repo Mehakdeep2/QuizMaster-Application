@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">quizApplication</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="welcome_to_quizz_master">Welcome To Quizz Master</string>
+    <string name="isn_t_life_a_collection_of_weird_quizzes_n_no_answers_to_half_the_questions">Isn\'t life a collection of weird quizzes \n no answers to half the questions</string>
+    <string name="login_now">Login Now</string>
+    <string name="please_login_to_continue_using_app">Please login to continue using app</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="don_t_have_an_account_signup">Don\'t have an account? SignUp</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="please_enter_your_email_and_password_to_access_your_account">Please enter your email and password to access your account</string>
+    <string name="already_have_account_login">Already have account? LogIn</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="Email">Email</string>
+    <string name="follow_us">Follow Us</string>
+    <string name="profile">Profile</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="submit">Submit</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="todo">TODO</string>
+    <string name="your_score_0">YOUR SCORE:0</string>
+    <string name="your_score">YOUR SCORE:</string>
+    <string name="quiz_yourself_daily">Quiz Yourself Daily</string>
+    <string name="a">A:</string>
+    <string name="quiz_master">Quiz Master</string>
+    <string name="app_description">Description:
+QuizMaster: The Ultimate Quiz Application
+
+Enhance your knowledge and challenge yourself with the QuizMaster app. QuizMaster offers a wide variety of quizzes across multiple categories to test your knowledge and keep you entertained. Whether you are a trivia enthusiast or looking to learn something new, QuizMaster has something for everyone. Simply select a category, start a quiz, and enjoy the fun of learning.
+
+Key Features:
+● Wide Range of Categories: Choose from various quiz topics including science, history, sports, entertainment, and more.
+● Multiple Quiz Modes: Enjoy different quiz formats such as multiple-choice, true/false, and timed challenges.
+● Leaderboard and Achievements: Compete with friends and track your progress with global leaderboards and achievements.
+● User-Friendly Interface: Easy navigation and smooth user experience for seamless quiz taking.
+● Regular Updates: New quizzes added regularly to keep the content fresh and engaging.
+
+Why Use QuizMaster?
+● Expand Your Knowledge: Learn new facts and improve your general knowledge across diverse subjects.
+● Test Your Skills: Challenge yourself and see how much you know about different topics.
+● Fun and Engaging: Perfect for quiz nights, social gatherings, or solo play.
+● Stay Competitive: Compete with others and see how you rank on the leaderboard.
+● Educational and Entertaining: Ideal for students, trivia lovers, and anyone looking to learn in a fun way.
+
+Download QuizMaster now and start your journey to becoming a quiz champion!</string>
+    <string name="know_about_us">Know About Us</string>
+    <string name="description">Description:</string>
+    <string name="quizmaster_the_ultimate_quiz_application_enhance_your_knowledge_and_challenge_yourself_with_the_quizmaster_app_quizmaster_offers_a_wide_variety_of_quizzes_across_multiple_categories_to_test_your_knowledge_and_keep_you_entertained_whether_you_are_a_trivia_enthusiast_or_looking_to_learn_something_new_quizmaster_has_something_for_everyone_simply_select_a_category_start_a_quiz_and_enjoy_the_fun_of_learning">QuizMaster: The Ultimate Quiz Application Enhance your knowledge and challenge yourself with the QuizMaster app. QuizMaster offers a wide variety of quizzes across multiple categories to test your knowledge and keep you entertained. Whether you are a trivia enthusiast or looking to learn something new, QuizMaster has something for everyone. Simply select a category, start a quiz, and enjoy the fun of learning.</string>
+    <string name="read_think_respond">Read.Think.Respond</string>
+    <string name="to_logout_of_your_account_click_the_button_below">To LOGOUT of your account click the button below</string>
+    <string name="visit_again">VISIT AGAIN!</string>
+</resources>
